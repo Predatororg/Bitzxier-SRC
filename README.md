@@ -1,6 +1,6 @@
 # Bitzxier-SRC
 BITZXIER SOURCE CODE WITH 0 ERROR IN CYAN THEAM
-Fuc*ed By Predator </>
+Fuc*ed By !`Rage 🦋`
 Download zip 
 Extract zip 
 paste your bot token in config.js
